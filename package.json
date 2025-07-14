@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Altynay Ayazbayeva",
 	"description": "Managing Packages with NPM",
-	"keywords": ["api", "npm", "javascript"],
+	"keywords": ["api", "npm", "javascript", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
